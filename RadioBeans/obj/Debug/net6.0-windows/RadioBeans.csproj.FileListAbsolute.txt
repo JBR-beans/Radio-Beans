@@ -1,0 +1,17 @@
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\bin\Debug\net6.0-windows\RadioBeans.exe
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\bin\Debug\net6.0-windows\RadioBeans.deps.json
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\bin\Debug\net6.0-windows\RadioBeans.runtimeconfig.json
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\bin\Debug\net6.0-windows\RadioBeans.dll
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\bin\Debug\net6.0-windows\RadioBeans.pdb
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\RadioBeans.csproj.AssemblyReference.cache
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\RadioBeans.FormMain.resources
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\RadioBeans.csproj.GenerateResource.cache
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\RadioBeans.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\RadioBeans.AssemblyInfoInputs.cache
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\RadioBeans.AssemblyInfo.cs
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\RadioBeans.csproj.CoreCompileInputs.cache
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\RadioBeans.dll
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\refint\RadioBeans.dll
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\RadioBeans.pdb
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\RadioBeans.genruntimeconfig.cache
+D:\School\WinFormsRepo\RadioBeans_Solution\RadioBeans\obj\Debug\net6.0-windows\ref\RadioBeans.dll
