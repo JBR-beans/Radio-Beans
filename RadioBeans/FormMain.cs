@@ -20,16 +20,19 @@ namespace RadioBeans
 		{
 			OpenFileDialog ofd = new OpenFileDialog();
 			ofd.InitialDirectory = "D:\\Music";
-			ofd.Filter = "ogg files (*.ogg)|*.ogg|All files (*.*)|*.*";
+			ofd.Filter = "WAV files (*.WAV)|*.WAV|All files (*.*)|*.*";
 			ofd.FilterIndex = 1;
 			ofd.RestoreDirectory = true;
 
 
 			if (ofd.ShowDialog() == DialogResult.OK)
 			{
-				filePath = ofd.SafeFileName;
-				//SoundPlayer soundPlayer = new SoundPlayer(filePath);
-				lblNowPlaying.Text = "Now Playing: " + filePath;
+				
+				string fileName = ofd.SafeFileName;
+				filePath = ofd.FileName;
+				SoundPlayer soundPlayer = new SoundPlayer(filePath);
+				lblNowPlaying.Text = "Now Playing: " + fileName;
+				soundPlayer.Play();
 			}
 
 		}
