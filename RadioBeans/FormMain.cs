@@ -23,16 +23,17 @@ namespace RadioBeans
 			ofd.Filter = "ogg files (*.ogg)|*.ogg|All files (*.*)|*.*";
 			ofd.FilterIndex = 1;
 			ofd.RestoreDirectory = true;
-			filePath = ofd.SafeFileName;
-			
+
+
 			if (ofd.ShowDialog() == DialogResult.OK)
 			{
+				filePath = ofd.SafeFileName;
 				//SoundPlayer soundPlayer = new SoundPlayer(filePath);
-				lblNowPlaying.Text = "Now Playing: " + filePath.ToString();
+				lblNowPlaying.Text = "Now Playing: " + filePath;
 			}
-			
+
 		}
 
-		
+
 	}
 }

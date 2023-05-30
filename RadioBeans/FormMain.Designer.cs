@@ -37,7 +37,7 @@
 			// 
 			// btnSoundTest
 			// 
-			btnSoundTest.Location = new Point(59, 62);
+			btnSoundTest.Location = new Point(12, 12);
 			btnSoundTest.Name = "btnSoundTest";
 			btnSoundTest.Size = new Size(87, 23);
 			btnSoundTest.TabIndex = 0;
@@ -47,7 +47,7 @@
 			// 
 			// pictureBox1
 			// 
-			pictureBox1.Location = new Point(235, 12);
+			pictureBox1.Location = new Point(118, 32);
 			pictureBox1.Name = "pictureBox1";
 			pictureBox1.Size = new Size(553, 344);
 			pictureBox1.TabIndex = 1;
@@ -55,7 +55,7 @@
 			// 
 			// btnBitmapTest
 			// 
-			btnBitmapTest.Location = new Point(59, 110);
+			btnBitmapTest.Location = new Point(701, 12);
 			btnBitmapTest.Name = "btnBitmapTest";
 			btnBitmapTest.Size = new Size(87, 23);
 			btnBitmapTest.TabIndex = 2;
@@ -65,7 +65,7 @@
 			// lblNowPlaying
 			// 
 			lblNowPlaying.AutoSize = true;
-			lblNowPlaying.Location = new Point(448, 359);
+			lblNowPlaying.Location = new Point(12, 426);
 			lblNowPlaying.Name = "lblNowPlaying";
 			lblNowPlaying.Size = new Size(122, 15);
 			lblNowPlaying.TabIndex = 3;
